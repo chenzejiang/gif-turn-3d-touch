@@ -1,8 +1,7 @@
 # Gif 转换 3D-Touch
 
 ### 演示地址
-#### [get-device-info](http://demo.chenzejiang.com/get-device-info)
+#### [gif-turn-3d-touch](http://demo.chenzejiang.com/gif-turn-3d-touch)
 <br/>
 
-![image](http://img.chenzejiang.com/github/get-device-info/qrcode.png)
-
+![image](http://img.chenzejiang.com/github/gif-turn-3d-touch/qrcode.png)
